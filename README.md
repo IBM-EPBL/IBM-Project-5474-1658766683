@@ -3,3 +3,10 @@
 Emerging Methods for Early Detection of Forest Fires
 
 Batch B1-1M3E
+
+# Batch Members
+  - BADRI KRISHNAN A - 412519106017
+  - DEEPAK S - 412519106024
+  - DHANUSH KUMAR V - 412519106027
+  - HARIHARAN S - 412519106038
+  
