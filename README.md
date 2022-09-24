@@ -5,6 +5,7 @@ Emerging Methods for Early Detection of Forest Fires
 Batch B1-1M3E
 
 Team ID - PNT2022TMID04066
+
 College: Sri Sai Ram Engineering College
 
 Industry Mentor(s) Name: Sowjanya, Sandeep
