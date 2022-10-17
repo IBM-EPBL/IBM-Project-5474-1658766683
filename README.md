@@ -8,7 +8,7 @@ Team ID - PNT2022TMID04066
 
 College: Sri Sai Ram Engineering College
 
-Industry Mentor(s) Name: Sowjanya, Sandeep
+Industry Mentor(s) Name: Shanthi
 
 Faculty Mentor(s) Name: P. Banu Priya
 
