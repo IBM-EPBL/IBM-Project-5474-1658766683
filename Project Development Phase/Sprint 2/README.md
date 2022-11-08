@@ -3,12 +3,12 @@
   - Model Building:
     - [x] Importing the model building libraries
     - [x] Initializing the model
-    - [x] Add the layers
-    - [x] Configure the Learning method
+    - [x] Adding CNN layers
+    - [x] Adding Dense layers
     - [x] Training the model
     - [x] Save the model
     - [x] Predictions
   - Video Analysis:
-    - [x] OpenCV for Video Analysis
-    - [x] Create an account in twilio service
-    - [x] Sending Alert Message
+    - [] OpenCV for Video Analysis
+    - [] Create an account in twilio service
+    - [] Sending Alert Message
