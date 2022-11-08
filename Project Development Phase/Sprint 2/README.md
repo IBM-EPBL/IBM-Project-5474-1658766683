@@ -1,0 +1,14 @@
+## Sprint 2
+- The tasks in Sprint 2 as Sprint Delivery Plan are:
+  - Model Building:
+    - [x] Importing the model building libraries
+    - [x] Initializing the model
+    - [x] Add the layers
+    - [x] Configure the Learning method
+    - [x] Training the model
+    - [x] Save the model
+    - [x] Predictions
+  - Video Analysis:
+    - [x] OpenCV for Video Analysis
+    - [x] Create an account in twilio service
+    - [x] Sending Alert Message
