@@ -9,6 +9,6 @@
     - [x] Save the model
     - [x] Predictions
   - Video Analysis:
-    - [] OpenCV for Video Analysis
-    - [] Create an account in twilio service
-    - [] Sending Alert Message
+    - [ ] OpenCV for Video Analysis
+    - [ ] Create an account in twilio service
+    - [ ] Sending Alert Message
