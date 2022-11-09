@@ -8,7 +8,7 @@
     - [x] Training the model
     - [x] Save the model
     - [x] Predictions
-  - Video Analysis:
-    - [ ] OpenCV for Video Analysis
-    - [ ] Create an account in twilio service
-    - [ ] Sending Alert Message
+  - Model Deployment to IBM Cloud:
+    - This step is known as Train CNN Model on IBM
+    - [x] Register for IBM Cloud 
+    - [x] Train Image Classification Model
