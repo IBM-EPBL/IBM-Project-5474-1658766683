@@ -11,4 +11,5 @@
   - Model Deployment to IBM Cloud:
     - This step is known as Train CNN Model on IBM
     - [x] Register for IBM Cloud 
-    - [x] Train Image Classification Model
+    - [x] Store the model in IBM Cloud
+    - [x] Download the model when needed.
